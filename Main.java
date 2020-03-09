@@ -5,6 +5,7 @@ import java.awt.event.*;
 import java.applet.*;
 
 /*<applet code="Main" width =300 height=300></applet>*/
+// Aparna typed
 
 public class Main extends Applet implements MouseListener
 
